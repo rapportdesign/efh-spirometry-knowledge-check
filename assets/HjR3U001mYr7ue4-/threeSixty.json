@@ -1,0 +1,87 @@
+{
+  "version": "3.63.27674.0",
+  "course_id": "EFH Spiro_V1",
+  "title": "EFH Spirometry",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "EFH Spiro Quiz"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6GMBuF0ny4r",
+      "title": "Assessment",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5luo2JiaT7a",
+      "title": "Which ONE of the following is NOT a contraindication for performing a spirometry test?",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5jGEhFdk8To",
+      "title": "What size syringe is used to verify the calibration of a spirometer?",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5pVVkQKu2vv",
+      "title": "According to the ARTP statement on pulmonary function testing 2020, when should the verification of calibration using a syringe be performed?",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5t4UD5nte6T",
+      "title": "Verification of calibration checks should produce a measured volume within what % of the syringe volume?",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6X1HaxYy7QZ",
+      "title": "When verifying the calibration using the physiological control method (BioQC) how much variability is acceptable in test results when performed?",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6ZoU0P2rol3",
+      "title": "Which of the following statements is correct, when checking reproducibility criteria has been met for the VC, FEV1 or FVC. ",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6h9r1MMBPWV",
+      "title": "According to the ARTP statement on pulmonary function testing 2020, peak flow (PEF) reproducibility criteria is met when which of the following is achieved?",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5zjG8iwVNJC",
+      "title": "Which ONE of the following statements is TRUE regarding the use of a nose clip?\n “A nose clip should be used….”",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6cPZwEeUVZY",
+      "title": "In the following graph, what can be identified as a fault?",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "62JNMg9kIMl",
+      "title": "Does the following spirometry result meet reproducibility criteria?",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6LFFAIc6bmd",
+      "title": "Results Slide",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6ByeuBTwWRM",
+      "title": "Assessment",
+      "scene_index": "1.13"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1052,
+    "height": 699
+  },
+  "stage": {
+    "width": 1032,
+    "height": 628
+  }
+}
